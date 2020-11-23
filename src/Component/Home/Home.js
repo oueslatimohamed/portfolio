@@ -11,7 +11,7 @@ class Home extends React.Component {
             <div className="home">
                 <div className="text-typing">
                 <Typical
-            steps={['Hi', 1000, "Hi I'am Mohamed Oueslati", 1000]}
+            steps={['Hi', 1000, "hello I'am Mohamed Oueslati", 1000]}
             loop={Infinity}
             wrapper="h3"
                  />
